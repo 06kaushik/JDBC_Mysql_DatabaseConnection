@@ -1,0 +1,9 @@
+ID,Name,Gender,PhoneNumber,Address,Department,Salary,BasicPay,Deductions,TaxablePay,IncomeTax,NetPay,Start_Date
+1,"Himanshu Kaushik",M,Null,Default,IT,50000,0,0,0,0,0,2020-10-01
+2,"Naman Varshney",M,Null,Default,IT,50000,0,0,0,0,0,2020-01-31
+3,"Robert Pattinson",M,Null,Default,HR,20000,0,0,0,0,0,2020-01-01
+4,"Jay Yadav",M,Null,Default,HR,19000,0,0,0,0,0,2020-03-10
+5,"Steve Jobs",M,Null,Default,Finance,78000,0,0,0,0,0,2020-03-15
+6,Catherina,F,Null,Default,,47000,0,0,0,0,0,2020-03-20
+7,Elena,F,Null,Default,Marketing,85000,0,0,0,0,0,2020-04-05
+8,Anjelina,F,NULL,NULL,IT,NULL,199999,NULL,NULL,NULL,NULL,NULL
